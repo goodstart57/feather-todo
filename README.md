@@ -2,6 +2,10 @@
 
 작업 목록 관리 (★경량)
 
+nodejs (standalone)
+
+db x -> csv (feather)
+
 ## 1. 구조
 
 - TASK : 할당받은 작업 내용 기록 (요구사항 단위)
